@@ -1,0 +1,10 @@
+Patient Name: Jane Smith
+Date of Birth: 2005-07-15
+Prescription Details: 
+Disease Type: Infection
+Daily Dosage: 2 times per day
+Duration: 14 days
+Surgery Date: Not applicable
+Risk Factor: Not specified
+Fasting Required: No
+Follow-Up Date: Not applicable
